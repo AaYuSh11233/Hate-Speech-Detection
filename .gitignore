@@ -11,6 +11,3 @@ model.joblib
 *.h5
 *.pkl
 *.pt
-predict.py
-train.py
-requirements.txt
