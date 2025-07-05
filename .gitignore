@@ -1,0 +1,16 @@
+logs*
+/venv
+*.pyc
+/_pycache_
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+model.joblib
+*.h5
+*.pkl
+*.pt
+predict.py
+train.py
+requirements.txt

@@ -1,0 +1,301 @@
+id,tweet,label
+id_1,I hate you,1
+id_2,You are terrible,1
+id_3,Have a nice day,0
+id_4,I love my friends,0
+id_5,Go back to your country,1
+id_6,Thank you so much,0
+id_7,You are disgusting,1
+id_8,This is awesome,0
+id_9,I hope you die,1
+id_10,Have a great weekend,0
+id_11,You people are trash,1
+id_12,Good morning everyone,0
+id_13,I will hurt you,1
+id_14,Stay blessed,0
+id_15,I despise them,1
+id_16,Nice to meet you,0
+id_17,They should be banned,1
+id_18,Welcome home,0
+id_19,You are a disgrace,1
+id_20,Enjoy your meal,0
+id_21,They are worthless,1
+id_22,All the best,0
+id_23,I can't stand them,1
+id_24,Good luck,0
+id_25,I wish you were dead,1
+id_26,How are you doing?,0
+id_27,I loathe this group,1
+id_28,Happy birthday,0
+id_29,You are the worst,1
+id_30,Have fun,0
+id_31,I hate them so much,1
+id_32,Take care,0
+id_33,You make me sick,1
+id_34,See you soon,0
+id_35,You are pathetic,1
+id_36,Good job,0
+id_37,I despise you,1
+id_38,Have a good night,0
+id_39,I want to hurt you,1
+id_40,Hello there,0
+id_41,I cannot tolerate them,1
+id_42,Enjoy,0
+id_43,You are trash,1
+id_44,Welcome,0
+id_45,I hate everyone like you,1
+id_46,How's it going?,0
+id_47,I wish bad things happen,1
+id_48,You look great,0
+id_49,They are disgusting,1
+id_50,Keep smiling,0
+id_51,You are a menace,1
+id_52,Have a wonderful day,0
+id_53,I wish you ill,1
+id_54,Wishing you well,0
+id_55,You are a burden,1
+id_56,Stay strong,0
+id_57,I want to see you suffer,1
+id_58,Sending good vibes,0
+id_59,You are a joke,1
+id_60,Take it easy,0
+id_61,They are a plague,1
+id_62,You're doing great,0
+id_63,I hope you fail,1
+id_64,Keep up the good work,0
+id_65,You are a disgrace to humanity,1
+id_66,Have a peaceful evening,0
+id_67,I wish you were never born,1
+id_68,Bless your heart,0
+id_69,You are a mistake,1
+id_70,You are so kind,0
+id_71,I want to punch you,1
+id_72,Stay positive,0
+id_73,You are a cancer,1
+id_74,You are inspiring,0
+id_75,I hope you get hit by a bus,1
+id_76,Have a productive day,0
+id_77,You are a waste of space,1
+id_78,You are brilliant,0
+id_79,I want to destroy you,1
+id_80,Keep shining,0
+id_81,You are pure evil,1
+id_82,You are a true friend,0
+id_83,I wish you were gone,1
+id_84,You are a gift,0
+id_85,You are a demon,1
+id_86,You are a blessing,0
+id_87,I want to see you cry,1
+id_88,You are a joy,0
+id_89,You are a monster,1
+id_90,You are amazing,0
+id_91,I hate your guts,1
+id_92,Have a lovely time,0
+id_93,You are a scumbag,1
+id_94,You are wonderful,0
+id_95,I hope you suffer,1
+id_96,You are fantastic,0
+id_97,You are a germ,1
+id_98,You are incredible,0
+id_99,I wish you pain,1
+id_100,You are awesome,0
+id_101,You are a viper,1
+id_102,Have a beautiful day,0
+id_103,I hope you rot,1
+id_104,You are a star,0
+id_105,You are a parasite,1
+id_106,You are a champion,0
+id_107,I want to crush you,1
+id_108,You are a treasure,0
+id_109,You are a plague on society,1
+id_110,You are a legend,0
+id_111,I wish you misery,1
+id_112,You are a gem,0
+id_113,You are a disease,1
+id_114,You are a hero,0
+id_115,I hope you drown,1
+id_116,You are a sweetheart,0
+id_117,You are a disgrace to your family,1
+id_118,You are a delight,0
+id_119,I want to see you fail miserably,1
+id_120,You are a true inspiration,0
+id_121,You are a blight,1
+id_122,You are a ray of sunshine,0
+id_123,I wish you were never born,1
+id_124,You are a true artist,0
+id_125,You are a stain,1
+id_126,You are a true leader,0
+id_127,I hope you vanish,1
+id_128,You are a true visionary,0
+id_129,You are a curse,1
+id_130,You are a true innovator,0
+id_131,I want to spit on you,1
+id_132,You are a true pioneer,0
+id_133,You are a maggot,1
+id_134,You are a true explorer,0
+id_135,I wish you were never seen again,1
+id_136,You are a true adventurer,0
+id_137,You are a cockroach,1
+id_138,You are a true scholar,0
+id_139,I hope you choke,1
+id_140,You are a true philosopher,0
+id_141,You are a piece of dirt,1
+id_142,You are a true poet,0
+id_143,I wish you were silenced,1
+id_144,You are a true musician,0
+id_145,You are a waste of oxygen,1
+id_146,You are a true artist,0
+id_147,I hope you cease to exist,1
+id_148,You are a true genius,0
+id_149,You are a repulsive creature,1
+id_150,You are a true master,0
+id_151,I wish you were erased,1
+id_152,You are a true champion,0
+id_153,You are a vile person,1
+id_154,You are a true hero,0
+id_155,I hope you drown in sorrow,1
+id_156,You are a true legend,0
+id_157,You are a festering wound,1
+id_158,You are a true inspiration,0
+id_159,I wish you nothing but pain,1
+id_160,You are a true blessing,0
+id_161,You are a living nightmare,1
+id_162,You are a true joy,0
+id_163,I hope you are miserable,1
+id_164,You are a true gift,0
+id_165,You are a walking disaster,1
+id_166,You are a true miracle,0
+id_167,I wish you were gone forever,1
+id_168,You are a true star,0
+id_169,You are a plague to my eyes,1
+id_170,You are a true gem,0
+id_171,I hope you never find peace,1
+id_172,You are a true treasure,0
+id_173,You are a wretched soul,1
+id_174,You are a true light,0
+id_175,I wish you were never born,1
+id_176,You are a true friend,0
+id_177,You are a stain on humanity,1
+id_178,You are a true angel,0
+id_179,I hope you are cursed,1
+id_180,You are a true saint,0
+id_181,You are a hateful being,1
+id_182,You are a true beauty,0
+id_183,I wish you were erased from memory,1
+id_184,You are a true wonder,0
+id_185,You are a disease to society,1
+id_186,You are a true marvel,0
+id_187,I hope you suffer endlessly,1
+id_188,You are a true delight,0
+id_189,You are an abomination,1
+id_190,You are a true pleasure,0
+id_191,I wish you were never conceived,1
+id_192,You are a true comfort,0
+id_193,You are a blight on this earth,1
+id_194,You are a true solace,0
+id_195,I hope you perish,1
+id_196,You are a true blessing,0
+id_197,You are a disgusting excuse for a human,1
+id_198,You are a true inspiration,0
+id_199,I wish you a terrible life,1
+id_200,You are a true gift to the world,0
+id_201,I hate your guts,1
+id_202,Have a nice evening,0
+id_203,You are disgusting,1
+id_204,Good luck with everything,0
+id_205,I hope you fail miserably,1
+id_206,Wishing you happiness,0
+id_207,You are a waste of oxygen,1
+id_208,You are a wonderful person,0
+id_209,I despise you so much,1
+id_210,Have a beautiful day,0
+id_211,You are pathetic and weak,1
+id_212,Good morning,0
+id_213,You are a vile creature,1
+id_214,Congratulations on your success,0
+id_215,I want you to suffer,1
+id_216,Stay happy always,0
+id_217,You are an abomination,1
+id_218,Best wishes,0
+id_219,I hope you choke,1
+id_220,Enjoy your time,0
+id_221,You are a cancer to society,1
+id_222,Have fun today,0
+id_223,I wish you pain,1
+id_224,Thanks for being kind,0
+id_225,You are nothing but filth,1
+id_226,Welcome back,0
+id_227,I hate everything about you,1
+id_228,See you soon,0
+id_229,I wish you were dead,1
+id_230,Take care,0
+id_231,You are the worst human,1
+id_232,Have a great time,0
+id_233,I despise your existence,1
+id_234,Wishing you all the best,0
+id_235,I hope you never succeed,1
+id_236,Good night,0
+id_237,You are scum,1
+id_238,Nice to meet you,0
+id_239,I hope you rot,1
+id_240,All the best to you,0
+id_241,You are a disgrace to everyone,1
+id_242,Enjoy your day,0
+id_243,I want you gone,1
+id_244,Thank you for your help,0
+id_245,You are a plague,1
+id_246,Good to see you,0
+id_247,I hope you suffer endlessly,1
+id_248,Wishing you joy,0
+id_249,You are pathetic,1
+id_250,Stay safe,0
+id_251,I hate your face,1
+id_252,Have a pleasant day,0
+id_253,You are a terrible person,1
+id_254,Good vibes only,0
+id_255,You are a waste of life,1
+id_256,Thank you for your kindness,0
+id_257,You are a disgrace to humanity,1
+id_258,Have a great week,0
+id_259,You are a burden to society,1
+id_260,Enjoy your weekend,0
+id_261,You are a piece of trash,1
+id_262,Have a wonderful evening,0
+id_263,You are a waste of space,1
+id_264,Stay safe and healthy,0
+id_265,You are a pathetic excuse for a human,1
+id_266,Have a fantastic day,0
+id_267,You are a cancer to the world,1
+id_268,You are a ray of sunshine,0
+id_269,You are a waste of oxygen,1
+id_270,You are a true friend,0
+id_271,You are a disgrace to your family,1
+id_272,You are a true inspiration,0
+id_273,You are a vile creature,1
+id_274,You are a true blessing,0
+id_275,You are a monster,1
+id_276,You are a true joy,0
+id_277,You are a disgusting human being,1
+id_278,You are a true treasure,0
+id_279,You are a waste of space,1
+id_280,You are a true star,0
+id_281,You are a pathetic individual,1
+id_282,You are a true gem,0
+id_283,You are a disgrace to society,1
+id_284,You are a true champion,0
+id_285,I wish you were never born,1
+id_286,You are a true hero,0
+id_287,You are a blight on this earth,1
+id_288,You are a true legend,0
+id_289,You are a waste of life,1
+id_290,You are a true artist,0
+id_291,Please die,1
+id_292,You are a true innovator,0
+id_293,You are a piece of garbage,1
+id_294,You are a true pioneer,0
+id_295,I despise every part of you,1
+id_296,You are a true explorer,0
+id_297,You are a waste of resources,1
+id_298,You are a true scholar,0
+id_299,You are a burden to everyone,1
+id_300,You are a true philosopher,0
